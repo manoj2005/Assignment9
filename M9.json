@@ -1,0 +1,20 @@
+[
+    {
+        "Album": "Ye Maaya Chesave",
+        "Artist": "A.R. Rahman",
+        "Tracks": ["Kundanapu Bomma", "Ee hridayam", "Aakasam", "Vintunnava", "Manasaa"],
+        "Year": 2010
+    },
+    {
+        "Album": "Businessman",
+        "Artist": "Thaman S",
+        "Tracks": ["Sir Osthaara", "Pilla Chao", "Aamchi Mumbai", "Chandamama", "Bye bye"],
+        "Year": 2011
+    },
+    {
+        "Album": "Rockstar",
+        "Artist": "A.R. Rahman",
+        "Tracks": ["Sadda Haq", "Tum Ho", "Kun Faya Kun", "Nadaan Parindey", "Jo Bhi Main"],
+        "Year": 2011
+    }
+]
